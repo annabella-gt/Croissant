@@ -1,0 +1,17 @@
+body {
+  background: #ffeac5;
+  text-align: center;
+}
+p {
+  padding: 20px 10px;
+}
+
+img {
+  max-width: 800px;
+  display: block;
+  margin: 0 auto;
+  padding: 40px 0;
+}
+.links a {
+  padding: 10px;
+}
